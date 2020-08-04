@@ -1,0 +1,14 @@
+.btnFilter{
+    display: flex;
+    justify-content: center;
+
+    div {
+        width: 150px;
+        height: 20px;
+        background-color: red;
+        border: 1px solid black;
+        cursor: pointer;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+}
